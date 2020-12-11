@@ -1,0 +1,6 @@
+notebook==6.1.5
+jupyter==1.0.0
+pyvis==0.1.8.2
+matplotlib==3.3.3
+networkx==2.5
+
